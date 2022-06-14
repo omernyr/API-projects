@@ -1,7 +1,12 @@
-let searchBtn = document.getElementById("search-btn");
+let searchBtn = document.getElementById("search-btn"); // enter butonu ekleidk buna gerek kalmadı.
 let countryInp = document.getElementById("search-inp");
 let result = document.getElementById("result");
-searchBtn.addEventListener("click",() => {
+countryInp.addEventListener("keypress",(e) => {
+
+    if (e.key === "Enter") {  // enter key added.
+        e.preventDefault();
+
+
     let countryName = countryInp.value;
     let finalURL = `https://restcountries.com/v3.1/name/${countryName}?fullText=true
     `;      // Burda url yi ekledik. İSmi yazınca irek ülkenin url ye gidiyor.
@@ -64,6 +69,8 @@ searchBtn.addEventListener("click",() => {
             result.innerHTML = `<h3>Please enter a valid country name.</h3>`
         }
     })
-})
+
+
+}});
 
 
