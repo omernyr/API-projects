@@ -12,7 +12,7 @@ Bu projede ülkeler hakkında bilgi veren bir uygulama yaptım.
 
 numberAPI projesi eklendi.
 
-#numberAPI
+# numberAPI
 
 Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
