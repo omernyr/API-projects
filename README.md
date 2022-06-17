@@ -17,3 +17,7 @@ numberAPI projesi eklendi.
 Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
 #### Projede faydalanılan API linki için [tıklayınız.](http://numbersapi.com/#4)
+
+### Proje görseli 
+
+![Project live](./country.png)
