@@ -1,4 +1,4 @@
-﻿# country-API
+# country-API
 
 Bu projede ülkeler hakkında bilgi veren bir uygulama yaptım.
 
@@ -26,14 +26,12 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
 
 
+# numberAPI
 
-# mealAPI
+Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
-Bu projede herhangi bir yemeğin hakkında bilgiler içeren bir app yapıldı.
-
-#### Projede faydalanılan API linki için [tıklayınız.](https://www.themealdb.com/api.php)
+#### Projede faydalanılan API linki için [tıklayınız.](http://numbersapi.com/#4)
 
 ### Proje görseli 
 
-
-![Project live](country-API/country.png)
+![Project live](mealAPI/meal.png)
