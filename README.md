@@ -12,6 +12,9 @@ Bu projede ülkeler hakkında bilgi veren bir uygulama yaptım.
 
 numberAPI projesi eklendi.
 
+![Project live](country-API/country.png)
+
+
 # numberAPI
 
 Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
@@ -20,4 +23,4 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
 ### Proje görseli 
 
-![Project live](./country.png)
+
