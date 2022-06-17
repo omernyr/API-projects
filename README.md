@@ -34,4 +34,4 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
 ### Proje görseli 
 
-![Project live](mealAPI/meal.png)
+![Project live](meal-API/meal.png)
