@@ -37,3 +37,14 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 ### Proje görseli 
 
 ![Project live](meal-API/meal.png)
+
+
+# randomjokeAPI
+
+Bu projede butona her basıldığında farklı bir şaka ekrana gelmektedir. 😂
+
+#### Projede faydalanılan API linki için [tıklayınız.](https://official-joke-api.herokuapp.com/random_joke)
+
+### Proje görseli 
+
+![Project live](randomjoke-API/joke.png)
