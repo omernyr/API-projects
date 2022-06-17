@@ -24,3 +24,16 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 ### Proje görseli 
 
 
+
+
+
+# mealAPI
+
+Bu projede herhangi bir yemeğin hakkında bilgiler içeren bir app yapıldı.
+
+#### Projede faydalanılan API linki için [tıklayınız.](https://www.themealdb.com/api.php)
+
+### Proje görseli 
+
+
+![Project live](country-API/country.png)
