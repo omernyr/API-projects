@@ -24,6 +24,8 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 ### Proje görseli 
 
 
+![Project live](number-API/number.png)
+
 
 
 # numberAPI
