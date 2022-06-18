@@ -15,11 +15,11 @@ numberAPI projesi eklendi.
 ![Project live](country-API/country.png)
 
 
-# numberAPI
+# meal-API
 
-Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
+Bu projede herhangi bir yemek hakkında bilgiler içeren bir app yapıldı.
 
-#### Projede faydalanılan API linki için [tıklayınız.](http://numbersapi.com/#4)
+#### Projede faydalanılan API linki için [tıklayınız.](https://www.themealdb.com/api.php)
 
 ### Proje görseli 
 
@@ -28,7 +28,7 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
 
 
-# numberAPI
+# number-API
 
 Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 
@@ -39,7 +39,7 @@ Bu projede herhangi bir sayı hakkında bilgiler içeren bir app yapıldı.
 ![Project live](meal-API/meal.png)
 
 
-# randomjokeAPI
+# randomjoke-API
 
 Bu projede butona her basıldığında farklı bir şaka ekrana gelmektedir. 😂
 
@@ -48,3 +48,15 @@ Bu projede butona her basıldığında farklı bir şaka ekrana gelmektedir. �
 ### Proje görseli 
 
 ![Project live](randomjoke-API/joke.png)
+
+
+
+# dictionary-API
+
+Bu projede istediğiniz kelimeleri aratıp anlamlarını, telafuzlarını öğrenebilirsiniz.
+
+#### Projede faydalanılan API linki için [tıklayınız.](https://dictionaryapi.dev/)
+
+### Proje görseli 
+
+![Project live](dictionary-API/dictionary.png)
