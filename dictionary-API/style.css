@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*:not(i) {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #121738;
+    display: flex;
+    justify-content: center;
+    color: #121738;
+    
+}
+
+
+.container {
+    margin-top: 10%;
+    width: 90vmin;
+    position: absolute;
+    background-color: #eeb200;
+    border-radius: 0.6em;
+    padding: 2em;  
+    
+}
+.search-bar {
+    display: grid;
+    grid-template-columns: 9fr 3fr;
+    gap: 1em;
+    height: 40px;
+}
+
+.search-input {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #121738;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0.3em;
+}
+.search-btn {
+    border: none;
+    border-radius: 0.3em;
+    background-color: #121738;
+    color: #eeb200;
+    font-weight: 600;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.wordandicon {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.icon {
+    cursor: pointer;
+    background-color:transparent;
+    border: none;
+    font-size: 20px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px;
+}
+.adjective {
+    display: flex;
+    color: #6e718a;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.whatsmean {
+    color: #121738;
+    font-weight: 500;
+}
+.example {
+    margin-top: 1em;
+    font-style: italic;
+    padding: 5px 1em;
+    border-left: 5px solid #121738;
+}
+
+
